@@ -1,0 +1,3 @@
+repository: 
+  type: fs 
+  location: /my-elasticsearch/backup 
